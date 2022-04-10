@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/9.9.3/sagit_images_9.9.3_20190904.0000.00_9.0_cn_b51d5ce3d8.tgz
+  ROM_URL: http://bigota.d.miui.com/7.7.20/sagit_images_7.7.20_20170720.0000.00_7.1_cn_772bd095d7.tgz
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
